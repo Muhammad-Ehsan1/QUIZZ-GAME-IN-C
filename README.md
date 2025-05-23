@@ -1,2 +1,2 @@
 # QUIZZ-GAME-IN-C
-This a Quiz game made by me in C programming language. In this game it shows a question which you have to answer if you answer correct you get 5 marks else 0. It is a quiz game.
+Developed a quiz game using the C programming language where a question is displayed, and the user must provide an answer. A correct answer earns 5 marks, while an incorrect answer results in 0 marks. This project demonstrates the use of control structures, user input handling, and basic scoring mechanisms in C.
